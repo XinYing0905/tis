@@ -15,6 +15,7 @@
 |17.1.2025 | Industry Visit to Petronas |
 
 # PC Assemble (22.10.2024)
+<img src="images/pc1.jpg" height=350 width=350></td>
 
 # Design Thinking Project
 
