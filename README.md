@@ -14,6 +14,18 @@
 |17.12.2024 | Industry Talk by IT Officer in UTM Digital |
 |17.1.2025 | Industry Visit to Petronas |
 
+# PC Assemble (22.10.2024)
+
+# Design Thinking Project
+
+# Industry Visit to UTM Digital (10.12.2024)
+
+# Industry Talk (17.12.2024)
+
+# Industry Visit to Petronas
+
+
+
 # Learning Material
 Chapter 1 : [Emerging Technology in ICT](https://github.com/XinYing0905/tis/blob/main/10%20CHAPTER%201%20-%20EMERGING%20TECHNOLOGY%20IN%20ICT%20.pdf)<br>
 Chapter 2 : [Hardware](https://github.com/XinYing0905/tis/blob/main/20%20CHAPTER%202%20-%20HARDWARE%20.pdf)<br>
