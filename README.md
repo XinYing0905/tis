@@ -38,7 +38,8 @@
 
 
 # 🎤 Industry Talk (17.12.2024)
-📝 We wrote a report in academic writing style to summurize the industry talk given by two distinguished speakers. <br>
+<img align="right" width="15%" src = "images/industry talk habibi&hakimi.png" ><br>
+📝 We wrote a report in academic writing style to summarize the industry talk given by two distinguished speakers. <br>
 🖋️ Academic report for this industry talk : [Report](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20ACADEMIC%20REPORT.pdf)
 - Reflection:
 > Throughout this talk, we learn about the career path after graduation, explored different possibilities to success in IT sector. We are not fixed in particular occupation, we can also be an entrepreneur with a computer science degree.
