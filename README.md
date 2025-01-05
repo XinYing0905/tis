@@ -16,23 +16,38 @@
 
 # 🖥️ PC Assemble (22.10.2024)
 <img src="images/pc1.jpg" height=350 width=350></td>
+- Reflection:
+> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+
 
 # 📒 Design Thinking Project
 🎼 We were assigned the theme **"Big Data and Artificial Intelligence Innovation"** to develop solutions addressing real-world problems.<br>
 🤯 After brainstorming, we decided to develop a product called "MBTI-Personalized Playlist and Quotes" to address the challenges people face when selecting music for their listening experience.<br>
 📂 Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20PROJECT%20REPORT%20checked%20(1).pdf)
+- Reflection:
+> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+
 
 # 🏡 Industry Visit to UTM Digital (10.12.2024)
 <img src="images/utmdigital.jpg" height=350 width=350></td><br>
 🏚️ This is our first industry visit and we gained a lot of insights in this visit. <br>
 🔭 We got to see daily life as a programmer, and get valueble input from talk given by UTM Digital staff.<br>
 📽️ Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
+- Reflection:
+> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+
 
 # 🎤 Industry Talk (17.12.2024)
 📝 We wrote a report in academic writing style to summurize the industry talk given by two distinguished speakers. <br>
 🖋️ Academic report for this industry talk : [Report](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20ACADEMIC%20REPORT.pdf)
+- Reflection:
+> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+
 
 # Industry Visit to Petronas
+- Reflection:
+> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+
 
 
 
