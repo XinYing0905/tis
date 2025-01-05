@@ -23,6 +23,7 @@
 📂 Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20PROJECT%20REPORT%20checked%20(1).pdf)
 
 # Industry Visit to UTM Digital (10.12.2024)
+<img src="images/utmdigital.HEIC" height=350 width=350></td>
 🏚️ This is our first industry visit and we gained a lot of insights in this visit. <br>
 🔭 We got to see daily life as a programmer, and get valueble input from talk given by UTM Digital staff.<br>
 📽️ Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
