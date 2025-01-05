@@ -47,4 +47,5 @@ Chapter 7 : [Privacy and Security Ethics](https://github.com/XinYing0905/tis/blo
 Chapter 8 : [Cloud Computing](https://github.com/XinYing0905/tis/blob/main/8.0%20CHAPTER%208%20-%20CLOUD%20COMPUTING%202023%20(2).pdf)<br>
 
 # Reflection
-blablabla
+I gained valuable knowledge about technologies and information systems through industry talks and visits. These experiences have significantly benefited me, providing insights into my potential future career in the IT sector. They offered practical knowledge that goes beyond what books can teach. For instance, during an interview with UTM Digital staff, I learned about the critical role of communication skills in the workplace. One memorable piece of advice that resonated with me was: **"Interest is the key to help you stay optimistic in your work."**
+
