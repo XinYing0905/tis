@@ -17,7 +17,7 @@
 # 🖥️ PC Assemble (22.10.2024)
 <img src="images/pc1.jpg" height=350 width=350></td>
 - Reflection:
-> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+> Through this lab session, I am able to recognise different components and hardwares in computer. The moment that the computer successfully started, it was very fufilling. 
 
 
 # 📒 Design Thinking Project
@@ -25,7 +25,7 @@
 🤯 After brainstorming, we decided to develop a product called "MBTI-Personalized Playlist and Quotes" to address the challenges people face when selecting music for their listening experience.<br>
 📂 Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20PROJECT%20REPORT%20checked%20(1).pdf)
 - Reflection:
-> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+> Through this project, my critical thinking skills was sharpened, as well as my communication skills and leadership skills. It was fun to work with other teammates, as the saying goes "one person can walk fast, but a group of people can go far".
 
 
 # 🏡 Industry Visit to UTM Digital (10.12.2024)
@@ -34,19 +34,19 @@
 🔭 We got to see daily life as a programmer, and get valueble input from talk given by UTM Digital staff.<br>
 📽️ Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
 - Reflection:
-> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+> Through this visit, I gained insights on the organisation structure of UTM Digital, and services offer by them. The most exciting thing, is the interview with UTM Digital staff. It was very insightful. 
 
 
 # 🎤 Industry Talk (17.12.2024)
 📝 We wrote a report in academic writing style to summurize the industry talk given by two distinguished speakers. <br>
 🖋️ Academic report for this industry talk : [Report](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20ACADEMIC%20REPORT.pdf)
 - Reflection:
-> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+> Throughout this talk, we learn about the career path after graduation, explored different possibilities to success in IT sector. We are not fixed in particular occupation, we can also be an entrepreneur with a computer science degree.
 
 
 # Industry Visit to Petronas
 - Reflection:
-> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+> Through this visit...
 
 
 
