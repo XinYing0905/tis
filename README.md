@@ -24,6 +24,7 @@ Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](htt
 Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
 
 # Industry Talk (17.12.2024)
+Academic report for this industry talk : [Report](#)
 
 # Industry Visit to Petronas
 
@@ -38,3 +39,6 @@ Chapter 5 : [Databases and Data Analytics](https://github.com/XinYing0905/tis/bl
 Chapter 6 : [Networks and Communications](https://github.com/XinYing0905/tis/blob/main/6.0%20CHAPTER%206%20-%20NETWORK%20%26%20COMMUNICATION%202023.pdf)<br>
 Chapter 7 : [Privacy and Security Ethics](https://github.com/XinYing0905/tis/blob/main/7.0%20CHAPTER%207%20-%20PRIVACY%20%26%20SECURITY%20ETHICS%202023%20.pdf)<br>
 Chapter 8 : [Cloud Computing](https://github.com/XinYing0905/tis/blob/main/8.0%20CHAPTER%208%20-%20CLOUD%20COMPUTING%202023%20(2).pdf)<br>
+
+# Reflection
+blablabla
