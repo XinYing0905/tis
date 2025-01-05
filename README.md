@@ -1,9 +1,9 @@
-# SECP1513 Technology and Information System
+# 💻 SECP1513 Technology and Information System
 ⌨️ Technology and Information System is a course that gives us knowledge about current technologies and advancements. Including hardware, software, cybersecurity and etc. <br>
 🚌 This course also brings us to industry visit, which allows us to bridge the gap between theory and real-life. <br>
 🗣️ Additionally, this course also invited experienced speakers to conduct industry talks for student, enabling students to gain valuable insights from the successful person.
 
-# Timeline ⌛
+# ⌛ Timeline 
 
 | Date | Activities   |
 |--|--|
@@ -14,21 +14,21 @@
 |17.12.2024 | Industry Talk by IT Officer in UTM Digital |
 |17.1.2025 | Industry Visit to Petronas |
 
-# PC Assemble (22.10.2024)
+# 🖥️ PC Assemble (22.10.2024)
 <img src="images/pc1.jpg" height=350 width=350></td>
 
-# Design Thinking Project
+# 📒 Design Thinking Project
 🎼 We were assigned the theme **"Big Data and Artificial Intelligence Innovation"** to develop solutions addressing real-world problems.<br>
 🤯 After brainstorming, we decided to develop a product called "MBTI-Personalized Playlist and Quotes" to address the challenges people face when selecting music for their listening experience.<br>
 📂 Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20PROJECT%20REPORT%20checked%20(1).pdf)
 
-# Industry Visit to UTM Digital (10.12.2024)
+# 🏡 Industry Visit to UTM Digital (10.12.2024)
 <img src="images/utmdigital.jpg" height=350 width=350></td><br>
 🏚️ This is our first industry visit and we gained a lot of insights in this visit. <br>
 🔭 We got to see daily life as a programmer, and get valueble input from talk given by UTM Digital staff.<br>
 📽️ Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
 
-# Industry Talk (17.12.2024)
+# 🎤 Industry Talk (17.12.2024)
 📝 We wrote a report in academic writing style to summurize the industry talk given by two distinguished speakers. <br>
 🖋️ Academic report for this industry talk : [Report](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20ACADEMIC%20REPORT.pdf)
 
@@ -36,7 +36,7 @@
 
 
 
-# Learning Material
+# 📘 Learning Material
 Chapter 1 : [Emerging Technology in ICT](https://github.com/XinYing0905/tis/blob/main/10%20CHAPTER%201%20-%20EMERGING%20TECHNOLOGY%20IN%20ICT%20.pdf)<br>
 Chapter 2 : [Hardware](https://github.com/XinYing0905/tis/blob/main/20%20CHAPTER%202%20-%20HARDWARE%20.pdf)<br>
 Chapter 3 : [Software](https://github.com/XinYing0905/tis/blob/main/CHAPTER%203%20-%20SOFTWARE%20.pdf)<br>
