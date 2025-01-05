@@ -31,7 +31,7 @@
 
 
 # 🏡 Industry Visit to UTM Digital (10.12.2024)
-<img src="images/utmdigital.jpg" height=350 width=350></td><br>
+<img src="images/WhatsApp Image 2025-01-06 at 02.29.30_8e55aec8.jpg" height=350 width=#></td><br>
 🏚️ This is our first industry visit and we gained a lot of insights in this visit. <br>
 🔭 We got to see daily life as a programmer, and get valueble input from talk given by UTM Digital staff.<br>
 📽️ Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
