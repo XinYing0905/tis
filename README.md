@@ -14,7 +14,7 @@
 |17.12.2024 | Industry Talk by IT Officer in UTM Digital |
 |17.1.2025 | Industry Visit to Petronas |
 
-# 🖥️ PC Assemble (22.10.2024)
+# 🖥️ PC Assemble Lab (22.10.2024)
 <img align="right" width="15%" src = "images/pc1.jpg" ><br>
 😎 It was coooool to get to know what's inside a CPU, this is a brand new experience to me! I got to know and feel each component in this session like RAM, CPU and Hard disk.
 - 💭 Reflection:
@@ -27,24 +27,24 @@
 🤯 After brainstorming, we decided to develop a product called "MBTI-Personalized Playlist and Quotes" to address the challenges people face when selecting music for their listening experience.<br>
 📂 Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20PROJECT%20REPORT%20checked%20(1).pdf)
 - 💭 Reflection:
-> Through this project, my critical thinking skills was sharpened, as well as my communication skills and leadership skills. It was fun to work with other teammates, as the saying goes "one person can walk fast, but a group of people can go far".
+> Through this project, my critical thinking skills was sharpened, as well as my communication skills and leadership skills. It was fun to work with other teammates, as the saying goes "one person can walk fast, but a group of people can go far". There are few improvements can be done, first is our group should consult with lecturer more frequently and get feedback from her. This can ensure we are in the right track doing this project. Secondly, I think we also need to improve our time management. We can make a proper gantt chart or timeline, instead of just setting due date for each task.
 
 
-# 🏡 Industry Visit to UTM Digital (10.12.2024)
+# 🏡 Industry Visit to UTM Digital - Assignment 2 : Video (10.12.2024)
 <img src="images/WhatsApp Image 2025-01-06 at 02.29.30_8e55aec8.jpg" height=350 width=#></td><br>
 🏚️ This is our first industry visit and we gained a lot of insights in this visit. <br>
 🔭 We got to see daily life as a programmer, and get valueble input from talk given by UTM Digital staff.<br>
 📽️ Link to the video : [Industry Visit 1](https://youtu.be/vj_jHPLiTjo)
 - 💭 Reflection:
-> Through this visit, I gained insights on the organisation structure of UTM Digital, and services offer by them. The most exciting thing, is the interview with UTM Digital staff. It was very insightful. 
+> Through this visit, I gained insights on the organisation structure of UTM Digital, and services offer by them. The most exciting thing, is the interview with UTM Digital staff. It was very insightful. The time allocated were quite rush actually, we did not have much time to explore certain space. I hope next time we can have more time to explore UTM Digital properly :).
 
 
-# 🎤 Industry Talk (17.12.2024)
+# 🎤 Industry Talk - Assignment 3 : Report (17.12.2024)
 <img align="right" width="15%" src = "images/industry talk habibi&hakimi.png" ><br>
 📝 We wrote a report in academic writing style to summarize the industry talk given by two distinguished speakers. <br>
 🖋️ Academic report for this industry talk : [Report](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20ACADEMIC%20REPORT.pdf)
 - 💭 Reflection:
-> Throughout this talk, we learn about the career path after graduation, explored different possibilities to success in IT sector. We are not fixed in particular occupation, we can also be an entrepreneur with a computer science degree.
+> Through this talk, we learned about the career path after graduation, explored different possibilities to success in IT sector. We are not fixed in particular occupations, we can also be an entrepreneur with a computer science degree! If there is any improvement that can be done, for me it will be time management, the second speaker did not had enough time to conclude his talk properly due to time constraints.
 
 
 # Industry Visit to Petronas
