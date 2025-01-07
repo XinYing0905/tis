@@ -13,7 +13,7 @@
 |17.12.2024 | Industry Talk by Chief of Executive Officer of Micro Semiconductor Sdn. Bhd |
 |17.12.2024 | Industry Talk by IT Officer in UTM Digital |
 |23.12.2024 | Design Thinking Submission |
-|17.1.2025 | Industry Visit to Petronas |
+|17.1.2025 | Industry Visit to Petronas and Huawei |
 
 # 🖥️ PC Assemble Lab (22.10.2024)
 <img align="right" width="15%" src = "images/pc1.jpg" ><br>
