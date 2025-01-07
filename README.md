@@ -27,6 +27,8 @@
 🎼 We were assigned the theme **"Big Data and Artificial Intelligence Innovation"** to develop solutions addressing real-world problems.<br>
 🤯 After brainstorming, we decided to develop a product called "MBTI-Personalized Playlist and Quotes" to address the challenges people face when selecting music for their listening experience.<br>
 📂 Report for Design Thinking Project : [MBTI-Personalized Playlist and Quotes](https://github.com/XinYing0905/tis/blob/main/TIS%20GROUP%204%20PROJECT%20REPORT%20checked%20(1).pdf)
+🎬 Video for Design Thinking Project : [Video](https://youtu.be/EwoU2MK75xU?si=mWZAQs8yDTNJb-BZ)
+📺 Presentation Slide for Design Thinking Project : [Slide](https://www.canva.com/design/DAGZusaKpLQ/jYm5eW9dL6n8dJRZJZa9uA/edit?utm_content=DAGZusaKpLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 💭 Reflection:
 > Through this project, my critical thinking skills was sharpened, as well as my communication skills and leadership skills. It was fun to work with other teammates, as the saying goes "one person can walk fast, but a group of people can go far". There are few improvements can be done, first is our group should consult with lecturer more frequently and get feedback from her. This can ensure we are in the right track doing this project. Secondly, I think we also need to improve our time management. We can make a proper gantt chart or timeline, instead of just setting due date for each task.
 
